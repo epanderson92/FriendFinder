@@ -1,0 +1,1 @@
+var friends = ["Green Power ranger", "Space Ghost", "Luke Skywalker"];
